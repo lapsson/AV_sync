@@ -54,6 +54,16 @@ Setting framerate could happen automagically by measuring the average delay on t
 
 ```
 
+## Hardware
+The case is a project box,
+[http://www.gmelectronic.com/plastic-box-kp28-z-37-p622-477](http://www.gmelectronic.com/plastic-box-kp28-z-37-p622-477)
+
+Neutrik chassis mount usb
+
+ikea desk light
+
+Telejack
+
 ## Future
 Add a handheld device that outputs light + audio tone to measure the latency of the complete chain from input to output.
 Use audio tone input as marker and wait for video to arrive.
